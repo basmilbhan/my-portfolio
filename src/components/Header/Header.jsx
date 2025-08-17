@@ -35,7 +35,7 @@ const Header = () => {
         <div className="container">
           <div className="st-main-header-in">
             <div className="st-main-header-left">
-              <Link className="st-site-branding" href='/' id="hero"><img width="150" src="/images/logo.png" alt="Davis" /></Link>
+              <Link className="st-site-branding" href='/' id="hero"><img width="150" src="/images/logo.png" alt="Milan" /></Link>
             </div>
             <div className="st-main-header-right">
               <div className="st-nav">
