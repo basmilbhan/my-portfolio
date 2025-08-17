@@ -1,0 +1,500 @@
+{
+  "heroData": {
+    "homeOneHero": {
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "imgLink": "/images/section/hero-img.jpg",
+      "title": "Milan <br /> Bhandari",
+      "subTitle": "Hello, I'm",
+      "designation": "Front-end Developer"
+    },
+    "homeTwoHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "title": "Hi, I am <span>Milan Bhandari</span>",
+      "text": "I am a front-end developer and Shopify specialist. I can provide clean code and pixel perfect design. <br>I also create dynamic web applications with modern frameworks like React and Next.js."
+    },
+    "homeThreeHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg-1.jpg",
+      "title": "Hi, I am <span>Milan Bhandari</span>",
+      "text": "I am a front-end developer and Shopify specialist. I can provide clean code and pixel perfect design. <br>I also create dynamic web applications with modern frameworks like React and Next.js."
+    },
+    "homeFourHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg-2.jpg",
+      "title": "Hi, I am <span>Milan Bhandari</span>",
+      "text": "I am a front-end developer and Shopify specialist. I can provide clean code and pixel perfect design. <br>I also create dynamic web applications with modern frameworks like React and Next.js."
+    }
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.jpg",
+    "cvPdf": "/images/Milan-CV.pdf",
+    "title": "Hi There! I'm Milan Bhandari",
+    "subtitle": "Front-end Developer & Shopify Specialist",
+    "text": "I am a Front-end Developer with extensive experience in creating responsive web applications and e-commerce solutions. I specialize in React, WordPress, and Shopify development with a passion for clean code and exceptional user experiences.",
+    "details": [
+      {
+        "title": "Phone",
+        "info": "+977-9861771632"
+      },
+      {
+        "title": "Email",
+        "info": "milanbhandari04@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Kathmandu, Nepal"
+      },
+      {
+        "title": "Education",
+        "info": "BSc. Computer Science"
+      },
+      {
+        "title": "Experience",
+        "info": "3+ Years"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "./images/icon/icon1.png",
+        "title": "React Development",
+        "text": "Building modern, interactive web applications using React.js and Next.js with focus on performance and user experience.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/icon/icon2.png",
+        "title": "Shopify Development",
+        "text": "Custom Shopify theme development and store optimization using Liquid templating and modern web technologies.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/icon/icon3.png",
+        "title": "WordPress Development",
+        "text": "Creating custom WordPress themes and plugins, maintaining websites for optimal performance and functionality.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/icon/icon4.png",
+        "title": "Backend Development",
+        "text": "Experienced in backend development, building robust web applications and management systems using Node.js and PHP with MySQL database integration.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/icon/icon5.png",
+        "title": "Responsive Design",
+        "text": "Developing mobile-first, fully responsive websites using modern styling technologies including CSS3, SASS, Tailwind CSS, and Bootstrap frameworks.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/icon/icon6.png",
+        "title": "Web Optimization",
+        "text": "Optimizing website performance, implementing technical SEO best practices, and ensuring cross-browser compatibility across all web projects.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "All the technical skills and technologies I have expertise in for web development.",
+    "text": "I have developed proficiency in modern web technologies through hands-on experience in various projects. My skill set spans from front-end frameworks to back-end development, with special expertise in e-commerce platforms and content management systems.",
+    "skills": [
+      {
+        "title": "React & Next.js",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "JavaScript & ES6",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Shopify & Liquid",
+        "progress": "88%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "CSS3 & SASS",
+        "progress": "92%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "WordPress & PHP",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "Tailwind CSS",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "https://nepalirudraksha.com/",
+        "title": "Nepali Rudraksha",
+        "subTitle": "Shopify Store",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "https://medicinalmadhoney.com/",
+        "title": "Medicinal Mad Honey",
+        "subTitle": "Shopify Store",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "https://everestshilajit.com/",
+        "title": "Everest Shilajit",
+        "subTitle": "Shopify Store",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "https://inspirange.com/",
+        "title": "Inspirange Electronics",
+        "subTitle": "Wordpress Store",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "https://shanjaal.com/",
+        "title": "Shanjaal Solutions",
+        "subTitle": "Custom Wordpress Website",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "https://alliancetreks.com/",
+        "title": "Alliance Trek",
+        "subTitle": "Wordpress Travel Theme",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio7.jpg",
+        "imgLinkLg": "https://inspirange.com/",
+        "title": "Inspirange Electronics",
+        "subTitle": "WordPress Store",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio8.jpg",
+        "imgLinkLg": "https://highlightsnepal.com/",
+        "title": "Highlights Nepal",
+        "subTitle": "Next JS website",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio9.jpg",
+        "imgLinkLg": "https://arrtsm.com/",
+        "title": "ARRTSM GmbH",
+        "subTitle": "Corporate Website",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio10.jpg",
+        "imgLinkLg": "https://nah.gov.np/",
+        "title": "Naradevi Hospital",
+        "subTitle": "React Application",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio11.jpg",
+        "imgLinkLg": "https://www.airnovus.io/",
+        "title": "air Novus",
+        "subTitle": "Next.JS Website",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio12.jpg",
+        "imgLinkLg": "https://arrtsm.com/software/",
+        "title": "ARRTSM Control System",
+        "subTitle": "React.JS Dashboard",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/blog/blog1.jpg",
+        "designation": "Milan Bhandari",
+        "heroBg": "/images/hero-bg17.jpg",
+        "date": "15-12-2024",
+        "title": "Modern React Development: Best Practices and Performance Tips",
+        "slug": "react-best-practices",
+        "href": "/blog/react-best-practices",
+        "detail1": "React has evolved significantly over the years, and staying up-to-date with modern development practices is crucial for building efficient applications. As a developer who has worked extensively with React in various projects, I've learned that following best practices not only improves performance but also makes your codebase more maintainable and scalable. In this comprehensive guide, I'll share the essential techniques and patterns that have proven most effective in my experience developing React applications for companies like ARRTSM GmbH and Fantastic Story Studio.\n\nThe foundation of modern React development starts with understanding functional components and hooks. Gone are the days when class components were the go-to choice. Functional components with hooks provide a cleaner, more intuitive way to manage state and side effects. The useState hook should be your primary tool for local component state, while useEffect handles side effects like API calls, subscriptions, and cleanup operations. Remember to always include dependencies in your useEffect dependency array to prevent bugs and unnecessary re-renders.\n\nComponent architecture plays a vital role in application scalability. I always follow the single responsibility principle – each component should have one clear purpose. Break down complex components into smaller, reusable pieces. This approach not only makes testing easier but also improves code reusability across different parts of your application. When building components, consider creating a clear hierarchy with container components handling logic and presentational components focusing solely on rendering UI.",
+        "detail2": "Performance optimization in React requires attention to several key areas. First, minimize unnecessary re-renders by using React.memo for functional components and useMemo for expensive calculations. The useCallback hook is essential when passing functions as props to child components, as it prevents the creation of new function instances on every render. Code splitting is another powerful technique – use React.lazy and Suspense to load components only when needed, significantly reducing initial bundle size.\n\nState management deserves special consideration in larger applications. While useState and useReducer work well for local state, consider implementing Context API for shared state across multiple components. For complex applications, libraries like Redux Toolkit or Zustand provide more robust solutions. Always keep your state as flat as possible and normalize data structures to improve performance and reduce complexity.\n\nTesting should be integrated into your development workflow from the beginning. Use React Testing Library for component testing, focusing on testing behavior rather than implementation details. Write tests that interact with your components the same way users would – click buttons, fill forms, and verify the expected outcomes. This approach ensures your tests remain valuable even when you refactor your components' internal structure. Remember, good tests serve as documentation and provide confidence when making changes to your codebase.",
+        "sliderImages": [
+          {
+            "imgLink": "/images/hero-bg3.jpg"
+          },
+          {
+            "imgLink": "/images/hero-bg4.jpg"
+          }
+        ]
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Milan Bhandari",
+        "heroBg": "/images/hero-bg17.jpg",
+        "date": "10-12-2024",
+        "title": "Shopify Theme Customization: A Complete Guide for Developers",
+        "slug": "shopify-theme-customization",
+        "href": "/blog/shopify-theme-customization",
+        "detail1": "Shopify theme development has been a significant part of my work at Nepa Rudraksha and Himalayan Treasures, where I've customized themes like Wokiee and Dawn to meet specific business requirements. Understanding Liquid templating language is fundamental to successful Shopify development. Liquid is Shopify's templating language that allows you to access store data and create dynamic content. Master the basic syntax including variables, filters, and control flow statements like if/else and for loops.\n\nThe theme structure in Shopify follows a specific organization that every developer should understand. The templates folder contains the main page templates, while the sections folder houses reusable components that can be added to any page through the theme customizer. The snippets folder stores smaller, reusable pieces of code that can be included in templates and sections. Layout files define the overall structure of your pages, typically including the HTML head, navigation, and footer.\n\nWhen customizing existing themes, always work with a duplicate to preserve the original. Use the Shopify CLI for local development – it provides hot reloading and a much better development experience than editing directly in the admin. Understand the theme's existing structure before making modifications, and always test your changes thoroughly across different devices and browsers. Pay special attention to how your customizations affect the theme's responsiveness and loading performance.",
+        "detail2": "Advanced customization techniques involve creating custom sections and blocks that store owners can easily configure. Use schema settings to make your customizations user-friendly – add color pickers, text inputs, and image uploads that allow store owners to modify content without touching code. Implement proper SEO practices by using semantic HTML, structured data, and optimized meta tags throughout your theme.\n\nPerformance optimization is crucial for Shopify stores. Minimize HTTP requests by combining CSS and JavaScript files where possible. Optimize images using Shopify's built-in image transformation features – always specify appropriate sizes and formats. Use lazy loading for images below the fold and implement critical CSS to improve perceived loading times. The liquid asset filters like asset_url and img_url provide powerful image optimization capabilities.\n\nIntegrating third-party apps and services requires careful consideration of how they'll affect your theme's performance and user experience. Always test app integrations thoroughly and ensure they don't conflict with your custom code. Use Shopify's Script Tag API judiciously – too many external scripts can significantly slow down your store. When possible, implement functionality server-side using Shopify's extensive API rather than relying on client-side JavaScript. This approach improves both performance and SEO while providing a better user experience across all devices and connection speeds.",
+        "sliderImages": [
+          {
+            "imgLink": "./images/hero-bg3.jpg"
+          },
+          {
+            "imgLink": "./images/hero-bg4.jpg"
+          }
+        ]
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "designation": "Milan Bhandari",
+        "date": "05-12-2024",
+        "title": "WordPress Development: Building Custom Themes and Optimizing Performance",
+        "slug": "wordpress-development-guide",
+        "href": "/blog/wordpress-development-guide",
+        "heroBg": "/images/hero-bg17.jpg",
+        "detail1": "WordPress development has been a cornerstone of my work at Fantastic Story Studio, where I've built custom themes and maintained numerous client websites. Understanding WordPress's template hierarchy is fundamental to effective theme development. WordPress uses a specific order to determine which template file to use for different types of content – from index.php as the fallback to specific templates like single.php for individual posts and page.php for static pages.\n\nCustom post types and fields extend WordPress beyond basic blogging functionality. Use the register_post_type() function to create content types specific to your client's needs – whether it's portfolios, testimonials, or product showcases. Advanced Custom Fields (ACF) or native custom fields provide powerful ways to add structured data to your posts and pages. Always sanitize and validate user inputs when working with custom fields to maintain security.\n\nTheme development best practices include following WordPress coding standards and using proper hooks and filters. The wp_enqueue_script() and wp_enqueue_style() functions ensure your assets load correctly and don't conflict with plugins. Create modular templates using get_template_part() to maintain clean, reusable code. Implement proper translation support using __() and _e() functions to make your themes internationally ready. Always use WordPress's built-in functions rather than reinventing functionality – this ensures better compatibility and security.",
+        "detail2": "Performance optimization in WordPress requires a multi-layered approach. Start with choosing quality hosting and implementing caching solutions like WP Rocket or W3 Total Cache. Optimize your database by removing unnecessary data – old revisions, spam comments, and unused plugins can significantly slow down your site. Use image optimization plugins or services to compress images without losing quality.\n\nSecurity considerations are paramount in WordPress development. Keep your WordPress core, themes, and plugins updated regularly. Use strong authentication methods and limit login attempts to prevent brute force attacks. Implement proper file permissions and regularly backup your site. When developing custom functionality, always sanitize inputs and validate outputs to prevent SQL injection and cross-site scripting attacks.\n\nPlugin development follows similar principles to theme development but focuses on functionality rather than presentation. Use WordPress hooks system effectively – actions for performing tasks and filters for modifying data. Create admin interfaces using WordPress's built-in admin classes for consistency with the WordPress dashboard. Always provide uninstall functionality to clean up database tables and options when your plugin is removed. Test your plugins with different themes and common plugin combinations to ensure compatibility across various WordPress environments.",
+        "sliderImages": [
+          {
+            "imgLink": "./images/hero-bg3.jpg"
+          },
+          {
+            "imgLink": "./images/hero-bg4.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/client/client1.png",
+        "title": "ARRTSM GmbH Team",
+        "designation": "Development Team Lead",
+        "text": "Milan showed exceptional growth during his internship and full-time role. His React skills and collaborative approach made him a valuable team member on multiple projects."
+      },
+      {
+        "imgLink": "./images/client/client2.png",
+        "title": "Nepa Rudraksha Management",
+        "designation": "Project Manager",
+        "text": "Milan's expertise in PHP and Shopify development helped us create a robust e-commerce platform. His attention to detail and technical skills are outstanding."
+      },
+      {
+        "imgLink": "./images/client/client3.png",
+        "title": "Fantastic Story Studio",
+        "designation": "Creative Director",
+        "text": "Working with Milan on our WordPress and React projects was fantastic. He delivers clean code, meets deadlines, and brings creative solutions to complex problems."
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "Shopify Developer",
+        "duration": "Dec 2024 - Present",
+        "subTitle": "Himalayan Treasures, Lalitpur",
+        "text": "Designing, developing, and maintaining multiple company websites. Customizing Shopify themes and working with cross-functional teams to deliver successful projects."
+      },
+      {
+        "title": "Front-end, PHP/WordPress Developer",
+        "duration": "May 2023 - Dec 2024",
+        "subTitle": "Fantastic Story Studio, Lalitpur (Part-time)",
+        "text": "Designed and maintained WordPress websites, developed React applications including POS systems, and collaborated with teams for successful project delivery."
+      },
+      {
+        "title": "PHP/Shopify Developer",
+        "duration": "Oct 2022 - Dec 2023",
+        "subTitle": "Nepa Rudraksha, Kathmandu",
+        "text": "Developed IMS applications using PHP, created internal web applications, and maintained Shopify sites with custom Liquid theme development."
+      },
+      {
+        "title": "Front End/WordPress Developer",
+        "duration": "Sep 2021 - Dec 2022",
+        "subTitle": "ARRTSM GmbH, Lalitpur",
+        "text": "Developed and maintained multiple React applications, collaborated with cross-functional teams, and contributed to various web development projects."
+      },
+      {
+        "title": "Front End Developer Intern",
+        "duration": "Mar 2021 - Sep 2021",
+        "subTitle": "Arrtsm GmbH Pvt. Ltd, Lalitpur",
+        "text": "Learned CSS3, SASS, Tailwind CSS, advanced JavaScript ES6, ReactJS, and Git version control during intensive training period."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "BSc. Computer Science",
+        "duration": "2021 - 2024",
+        "subTitle": "University of the People, California",
+        "text": "Completed Bachelor of Science in Computer Science with a focus on software development and modern programming practices, graduating with a 3.57 CGPA."
+      },
+      {
+        "title": "+2 Science",
+        "duration": "2015 - 2017",
+        "subTitle": "Nepal APF School, Kirtipur",
+        "text": "Completed higher secondary education in Science stream with GPA 3.65, building foundation for computer science studies."
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Let's work together",
+    "title": "Contact Info",
+    "subTitle": "Get in touch for web development projects",
+    "text": "I'm always interested in new opportunities and exciting projects. Whether you need a modern React application, Shopify store, or WordPress website, let's discuss how I can help bring your vision to life.",
+    "email": "milanbhandari04@gmail.com",
+    "phone": "+977 9861771632",
+    "address": "Machhegaun Bustop Kirtipur,<br> Kathmandu, BG 44600"
+  },
+  "socialData": [
+    {
+      "icon": "github",
+      "title": "GitHub",
+      "link": "https://github.com/basmil159"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/milan-bhandari-0405b3185/"
+    },
+    {
+      "icon": "facebook",
+      "title": "Facebook",
+      "link": "https://www.facebook.com/share/174mgmL821/"
+    },
+    {
+      "icon": "mail",
+      "title": "Email",
+      "link": "mailto:milanbhandari04@gmail.com"
+    }
+  ],
+  "socialData2": [
+    {
+      "icon": "github",
+      "link": "https://github.com/basmil159"
+    },
+    {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/milan-bhandari-0405b3185/"
+    },
+    {
+      "icon": "mail",
+      "link": "mailto:milanbhandari04@gmail.com"
+    }
+  ]
+}
