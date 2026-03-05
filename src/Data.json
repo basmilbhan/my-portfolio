@@ -8,7 +8,7 @@
       "designation": "Front-end Developer"
     },
     "homeTwoHero": {
-      "imgAuthor": "/images/section/hero-img.jpg",
+      "imgAuthor": "/images/section/hero-img.webp",
       "bgImgLink": "/images/background/hero-bg.jpg",
       "title": "Hi, I am <span>Milan Bhandari</span>",
       "text": "I am a front-end developer and Shopify specialist. I can provide clean code and pixel perfect design. <br>I also create dynamic web applications with modern frameworks like React and Next.js."
@@ -27,7 +27,7 @@
     }
   },
   "aboutData": {
-    "imgLink": "/images/section/about.jpg",
+    "imgLink": "/images/section/about.webp",
     "cvPdf": "/images/Milan-CV.pdf",
     "title": "Hi There! I'm Milan Bhandari",
     "subtitle": "Front-end Developer & Shopify Specialist",
