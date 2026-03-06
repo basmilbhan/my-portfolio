@@ -6,7 +6,7 @@ const SectionHeading = ({title}) => {
     <div className="container">
       <div className={`st-section-heading st-style1`} data-aos="fade-up" data-aos-duration="800">
         <h2 className="st-section-heading-subtitle">{title}</h2>
-        <h4 className="st-section-heading-title">{title}</h4>
+        <div className="st-section-heading-title">{title}</div>
       </div>
       <div className="st-height-b25 st-height-lg-b25"></div>
     </div>
