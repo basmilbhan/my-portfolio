@@ -2,7 +2,7 @@ import './globals.scss'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 export const metadata = {
-  title: 'Milan - Personal portfolio NextJs template',
+  title: 'Milan - Web Developer from Nepal',
   description: 'Personal portfolio website built with Next.js',
   icons: {
     icon: '/images/favicon.png',
