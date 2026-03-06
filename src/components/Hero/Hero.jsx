@@ -46,7 +46,7 @@ const Hero = ({ data, socialData }) => {
               data-aos-duration="800"
               data-aos-delay="500"
             >
-              <ScrollLink className="st-btn st-style1 st-color1" to="contact">
+              <ScrollLink className="st-btn st-style1 st-color1" href="contact" to="contact">
                 Hire Me
               </ScrollLink>
             </div>
@@ -57,6 +57,8 @@ const Hero = ({ data, socialData }) => {
         <img
           src={`${imgLink}`}
           alt="Hero"
+          width="1016"
+          height="1355"
           data-aos="fade-left"
           data-aos-delay="1000"
           data-aos-duration="1000"
