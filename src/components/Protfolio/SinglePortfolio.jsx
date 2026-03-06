@@ -11,7 +11,7 @@ const SinglePortfolio = ({ data, getData }) => {
         <div className="st-portfolio-item">
           <div className="st-portfolio st-zoom">
             <div className="st-portfolio-img st-zoom-in">
-              <img src={imgLink} alt="portfolio" />
+              <img src={imgLink} width="730" height="562" alt="portfolio" />
 
             </div>
             <div className="st-portfolio-item-hover">
