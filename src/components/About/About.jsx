@@ -20,7 +20,7 @@ const About = ({ data }) => {
             <div className="st-vertical-middle">
               <div className="st-vertical-middle-in">
                 <div className={`st-text-block st-style1`} data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="500">
-                  <h2 className="st-text-block-title">{title}</h2>
+                  <h3 className="st-text-block-title">{title}</h3>
                   <h4 className="st-text-block-subtitle">{subtitle}</h4>
                   <div className="st-text-block-text">
                     <p>{text}</p>
