@@ -2,7 +2,7 @@
   "heroData": {
     "homeOneHero": {
       "bgImgLink": "/images/background/hero-bg.jpg",
-      "imgLink": "/images/section/hero-img.jpg",
+      "imgLink": "/images/section/hero-img.avif",
       "title": "Milan <br /> Bhandari",
       "subTitle": "Hello, I'm",
       "designation": "Front-end Developer"
@@ -27,7 +27,7 @@
     }
   },
   "aboutData": {
-    "imgLink": "/images/section/about.webp",
+    "imgLink": "/images/section/about.avif",
     "cvPdf": "/images/Milan-CV.pdf",
     "title": "Hi There! I'm Milan Bhandari",
     "subtitle": "Front-end Developer & Shopify Specialist",
